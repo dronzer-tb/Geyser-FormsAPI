@@ -1,0 +1,6 @@
+id: formsapi
+name: FormsAPI
+main: org.formsapi.FormsAPIExtension
+api: 2.9.0
+version: 1.0.0
+authors: [kasniya]

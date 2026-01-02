@@ -1,0 +1,5 @@
+# FormsAPI Extension Configuration
+
+# TCP Server Settings
+# The port to listen for form requests from Spigot plugins
+port: 9876
