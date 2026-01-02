@@ -64,7 +64,7 @@ port: 9876
 │                   Bedrock Client                            │
 │                   (sees the form!)                          │
 └─────────────────────────────────────────────────────────────┘
-                                          ▲
+                            ▲
                             │ TCP Connection
                             │
 ┌───────────────────────────┴─────────────────────────────────┐
@@ -155,4 +155,3 @@ Developed by [DronzerStudios](https://dronzerstudios.tech)
 
 For issues, feature requests, or contributions, please visit:
 - Website: https://dronzerstudios.tech
-- GitHub: https://github.com/DronzerStudios
